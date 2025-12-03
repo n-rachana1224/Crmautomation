@@ -122,4 +122,3 @@ CRM Automation Project
 ✔ Enterprise-level CRM lifecycle
 ✔ Excellent for Final Year / Internship Project
 
-entation PPT next? 🚀
